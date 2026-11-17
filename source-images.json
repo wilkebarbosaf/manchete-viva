@@ -1,0 +1,69 @@
+{
+  "senado": {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi",
+    "image": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
+    "title": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi",
+    "credits": [
+      "Ir para o site da Agência Brasil",
+      "Agência Brasil no Facebook ",
+      "Agência Brasil no Instagram",
+      "Agência Brasil no X"
+    ]
+  },
+  "inflacao": {
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inflacao-perde-forca-e-fica-em-014-em-outubro-conta-de-luz-cai",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  "enem": {
+    "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro",
+    "image": "https://imagens.ebc.com.br/Knn4ZnRpdtilHhzFmdV6ItFbNQY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/15/pzzb0368.jpg?itok=tr3TFdVu",
+    "title": "Gabarito do Enem sai na quarta-feira, e resultado em 18 de janeiro",
+    "credits": [
+      "Ir para o site da Agência Brasil",
+      "Agência Brasil no Facebook ",
+      "Agência Brasil no Instagram",
+      "Agência Brasil no X"
+    ]
+  },
+  "copa": {
+    "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/fifa-abre-venda-de-ingressos-para-copa-feminina-2027-em-1o-de-dezembro",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  "clima": {
+    "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-negociacoes-avancam-mas-financiamento-e-desafio-para-2a-semana",
+    "image": "https://imagens.ebc.com.br/dqMvzzWDUdJN3giJ-vxZNE7eD6g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/15/cop31_negociacoes_avancam_mas_financiamento_e_desafio_para_2a_semana01.jpg?itok=RlNcvfjL",
+    "title": "COP31: negociações avançam, mas financiamento é desafio para 2ª semana",
+    "credits": [
+      "Ir para o site da Agência Brasil",
+      "Agência Brasil no Facebook ",
+      "Agência Brasil no Instagram",
+      "Agência Brasil no X"
+    ]
+  },
+  "cultura": {
+    "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/inhotim-encerra-celebracoes-de-seus-20-anos-com-duas-novas-atracoes",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  "bolsa": {
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-comeca-pagar-parcela-do-bolsa-familia-de-novembro",
+    "image": "https://imagens.ebc.com.br/qO5gg6P4wJEyB9RCnl9t-uu6NLY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/24/_mg_5709.jpg?itok=R9gGh6PD",
+    "title": "Caixa começa a pagar parcela do Bolsa Família de novembro",
+    "credits": [
+      "Ir para o site da Agência Brasil",
+      "Agência Brasil no Facebook ",
+      "Agência Brasil no Instagram",
+      "Agência Brasil no X"
+    ]
+  },
+  "anitta": {
+    "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/anitta-e-indicada-ao-grammy-internacional-para-melhor-album-global",
+    "image": "https://imagens.ebc.com.br/xz8NCJ2QMxMM0oUYvICfCZS7cpA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/12/sem_titulo.jpg?itok=YXnCpkj-",
+    "title": "Anitta é indicada ao Grammy Internacional para melhor álbum global",
+    "credits": [
+      "Ir para o site da Agência Brasil",
+      "Agência Brasil no Facebook ",
+      "Agência Brasil no Instagram",
+      "Agência Brasil no X"
+    ]
+  }
+}
